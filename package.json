@@ -1,0 +1,22 @@
+{
+  "name": "agilstore",
+  "version": "1.0.0",
+  "description": "gestão automatizada do inventário de produtos, facilitanto operações como adicionar novos produtos, listar produtos existentes, atualizar informações e remover itens ovsoletos",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evanilsondejesus/AgilStore.git"
+  },
+  "author": "Evanilson Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evanilsondejesus/AgilStore/issues"
+  },
+  "homepage": "https://github.com/Evanilsondejesus/AgilStore#readme",
+  "dependencies": {
+    "commander": "^13.0.0"
+  }
+}
