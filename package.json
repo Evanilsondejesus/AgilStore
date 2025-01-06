@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Evanilsondejesus/AgilStore#readme",
   "dependencies": {
-    "commander": "^13.0.0"
+    "commander": "^13.0.0",
+    "uuid": "^11.0.4"
   }
 }
